@@ -1,4 +1,4 @@
-![Computer science and engineering major](https://github.com/yaojunrui/yaojunrui/githubReadmeImg.gif)
+![Computer science and engineering major](https://github.com/yaojunrui/yaojunrui/blob/main/img.gif)
 - 🌱 A Computer Science sophomore. 
 - 💻 Learn the Web framework and database
 - ⭐ Goal to find a software engineer internship in summer 2024
