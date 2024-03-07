@@ -31,5 +31,5 @@
 
 </p>
 
-<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaojunrui&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="cybiii" /></h3>
+<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaojunrui&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="yaojunrui" /></h3>
 
